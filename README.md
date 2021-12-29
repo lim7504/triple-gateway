@@ -130,7 +130,7 @@ create table user_point_history
     2. id : 603178bc-214a-49f0-85ea-f1cacbeeaa45
     name : 제주도
 
-### API 리스트
+### API 리스트 (각 서비스의 유레카 등록시간이 30초정도 지연될 수 있습니다. 30초 후에 호출하시길 바랍니다.)
 
 1. 리뷰 추가/수정/삭제 API
     1. 리뷰 추가
